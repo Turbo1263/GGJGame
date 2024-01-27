@@ -929,8 +929,8 @@ MonoBehaviour:
   volumeSlider: {fileID: 565490528}
   musicSource: {fileID: 0}
   SFXSource: {fileID: 0}
-  MenuMusic: {fileID: 0}
-  StartButtonSound: {fileID: 0}
+  MenuMusic: {fileID: 8300000, guid: b10f391aa3d5d4349af82d47356b22f2, type: 3}
+  StartButtonSound: {fileID: 8300000, guid: 8406dec56d1446240bf3eca7138d0e08, type: 3}
   ButtonClick: {fileID: 0}
 --- !u!1 &757718407
 GameObject:
