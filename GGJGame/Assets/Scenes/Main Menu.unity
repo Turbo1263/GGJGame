@@ -1199,6 +1199,8 @@ MonoBehaviour:
   MenuMusic: {fileID: 8300000, guid: b10f391aa3d5d4349af82d47356b22f2, type: 3}
   StartButtonSound: {fileID: 8300000, guid: 8406dec56d1446240bf3eca7138d0e08, type: 3}
   ButtonClick: {fileID: 8300000, guid: d38ee415744173149b4ea57ed1660ad7, type: 3}
+  OptionsMusic: {fileID: 8300000, guid: 306bea19d7809904eb529228342a0cc5, type: 3}
+  InGameMusic1: {fileID: 8300000, guid: 42df5e9d108ee474baf75a13c8423b4f, type: 3}
 --- !u!4 &1435096743
 Transform:
   m_ObjectHideFlags: 0
@@ -1208,7 +1210,7 @@ Transform:
   m_GameObject: {fileID: 1435096741}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 82.899994, y: 112.9, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
