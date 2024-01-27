@@ -64,6 +64,7 @@
     <Compile Include="Assets\Mason is cringe\FuckOFF.cs" />
     <Compile Include="Assets\Mason is cringe\MainMenu.cs" />
     <Compile Include="Assets\Mason is cringe\OptionsButton.cs" />
+    <Compile Include="Assets\SCOTLAND_FOREVER.cs" />
     <Compile Include="Assets\Game Jam Audio\AudioManager.cs" />
   </ItemGroup>
   <ItemGroup>

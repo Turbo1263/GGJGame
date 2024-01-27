@@ -19,6 +19,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip ButtonClick;
     public AudioClip OptionsMusic;
     public AudioClip InGameMusic1;
+    public AudioClip SCOTLAND_FOREVER;
 
     private string currentScene;
     private string oldScene;

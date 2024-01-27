@@ -1201,6 +1201,7 @@ MonoBehaviour:
   ButtonClick: {fileID: 8300000, guid: d38ee415744173149b4ea57ed1660ad7, type: 3}
   OptionsMusic: {fileID: 8300000, guid: 306bea19d7809904eb529228342a0cc5, type: 3}
   InGameMusic1: {fileID: 8300000, guid: 42df5e9d108ee474baf75a13c8423b4f, type: 3}
+  SCOTLAND_FOREVER: {fileID: 8300000, guid: 6026bf5fe4df11c4b9786cbd9d3b9e67, type: 3}
 --- !u!4 &1435096743
 Transform:
   m_ObjectHideFlags: 0
