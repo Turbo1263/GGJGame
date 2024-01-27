@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":82.89999389648438,"y":112.9000015258789,"z":0.0},"rotation":{"x":0.025189384818077089,"y":0.23228131234645844,"z":-0.006006557960063219,"w":0.9723076224327087},"size":10.0,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":198.42933654785157,"y":117.02955627441406,"z":-220.64378356933595},"rotation":{"x":0.06534775346517563,"y":-0.010474536567926407,"z":0.0007113820174708962,"w":0.9977958798408508},"size":225.8865509033203,"orthographic":false}
+>>>>>>> origin/Simon2
