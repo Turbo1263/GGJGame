@@ -8,9 +8,12 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+<<<<<<< HEAD
 	"last_search.310DEAF1" = ""
 	"OpenInspectorPreview.310DEAF1" = "0"
 	"currentGroup.310DEAF1" = "all"
+=======
+>>>>>>> 3ec1108dca0a0d963211ccaae76d8b2e53fe14c0
 }
 providers = {
 	scene = {
@@ -62,8 +65,11 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+<<<<<<< HEAD
 	"s"
 	""
+=======
+>>>>>>> 3ec1108dca0a0d963211ccaae76d8b2e53fe14c0
 ]
 searchItemFavorites = [
 ]
