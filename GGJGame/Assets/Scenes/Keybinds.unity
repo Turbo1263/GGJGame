@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -238,6 +238,7 @@ GameObject:
   - component: {fileID: 576261228}
   - component: {fileID: 576261227}
   - component: {fileID: 576261226}
+  - component: {fileID: 576261229}
   m_Layer: 5
   m_Name: Return
   m_TagString: Untagged
@@ -308,7 +309,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 576261227}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 576261229}
+        m_TargetAssemblyTypeName: to_option, Assembly-CSharp
+        m_MethodName: toControl
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &576261227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -347,6 +360,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 576261224}
   m_CullTransparentMesh: 1
+--- !u!114 &576261229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576261224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6520cd9c850d9b448bb4b82b9626041e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &728316999
 GameObject:
   m_ObjectHideFlags: 0
@@ -732,8 +757,9 @@ GameObject:
   - component: {fileID: 1689323326}
   - component: {fileID: 1689323325}
   - component: {fileID: 1689323324}
+  - component: {fileID: 1689323327}
   m_Layer: 5
-  m_Name: Button (Legacy)
+  m_Name: Rebind
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -802,7 +828,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1689323325}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1689323327}
+        m_TargetAssemblyTypeName: To_frick_u, Assembly-CSharp
+        m_MethodName: tofrick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1689323325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -841,6 +879,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1689323322}
   m_CullTransparentMesh: 1
+--- !u!114 &1689323327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689323322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b286d7219f3c144fa6d220bd465d59f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1863215611
 GameObject:
   m_ObjectHideFlags: 0
