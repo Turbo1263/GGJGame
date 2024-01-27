@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Mining Level.unity
+=======
+- path: Assets/Scenes/Main Menu.unity
+>>>>>>> origin/Simon
   isLoaded: 1
   isActive: 1
   isSubScene: 0

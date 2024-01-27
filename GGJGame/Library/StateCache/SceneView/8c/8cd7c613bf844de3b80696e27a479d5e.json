@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-0.6530593633651733,"y":1.5811561346054078,"z":0.02972698211669922},"rotation":{"x":-0.021335285156965257,"y":0.9789308905601502,"z":-0.13776351511478425,"w":-0.15165241062641145},"size":2.3046562671661379,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":82.89999389648438,"y":112.9000015258789,"z":0.0},"rotation":{"x":-0.04399465397000313,"y":0.06439325213432312,"z":0.0028525919187813999,"w":0.9969442486763},"size":80.62257385253906,"orthographic":false}
+>>>>>>> origin/Simon
