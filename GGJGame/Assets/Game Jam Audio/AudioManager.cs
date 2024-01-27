@@ -1,21 +1,17 @@
-<<<<<<< HEAD
+
 using UnityEngine;
 using UnityEngine.UI;
-=======
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
 
 public class AudioManager : MonoBehaviour
 {
 
-<<<<<<< HEAD
     [SerializeField] Slider volumeSlider;
-=======
+
     [SerializeField]
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
     private GameObject self;
 
     [Header("-------- Audio Source --------")]
@@ -26,14 +22,9 @@ public class AudioManager : MonoBehaviour
     public AudioClip MenuMusic;
     public AudioClip StartButtonSound;
     public AudioClip ButtonClick;
-<<<<<<< HEAD
 
-    private void Start()
-    {
-        musicSource.clip = MenuMusic;
-        musicSource.Play();
-        
-=======
+
+
     public AudioClip OptionsMusic;
     public AudioClip InGameMusic1;
     public AudioClip SCOTLAND_FOREVER;
@@ -115,7 +106,6 @@ public class AudioManager : MonoBehaviour
             musicSource.clip = InGameMusic1;
             musicSource.Play();
         }
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
     }
     public void Start_Button()
     {
@@ -131,14 +121,13 @@ public class AudioManager : MonoBehaviour
         musicSource.loop = false;
         musicSource.Play();
     }
-<<<<<<< HEAD
+
 
     public void changeVolume()
     {
         AudioListener.volume = volumeSlider.value;
     }
 
-=======
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
+
 }
 

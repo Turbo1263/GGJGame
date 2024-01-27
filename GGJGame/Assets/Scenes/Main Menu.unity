@@ -233,8 +233,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_SendPointerHoverToParent: 1
-  m_HorizontalAxis: HorizontalLeft
-  m_VerticalAxis: VerticalLeft
+  m_HorizontalAxis: HorizontalLeft1
+  m_VerticalAxis: VerticalLeft1
   m_SubmitButton: Submit
   m_CancelButton: Cancel
   m_InputActionsPerSecond: 10
@@ -281,9 +281,6 @@ GameObject:
   - component: {fileID: 460727746}
   - component: {fileID: 460727745}
   - component: {fileID: 460727744}
-  - component: {fileID: 460727747}
-  - component: {fileID: 460727748}
-  - component: {fileID: 460727749}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -365,42 +362,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &460727747
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 460727743}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9d96346a5e594e408e34cab1f7e1c16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &460727748
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 460727743}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48629f0d8c9a8614daae7123d940b523, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &460727749
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 460727743}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6581587394f6a043b3a3a00717a544d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &553083338
 GameObject:
   m_ObjectHideFlags: 0
@@ -541,6 +502,7 @@ GameObject:
   - component: {fileID: 607682780}
   - component: {fileID: 607682779}
   - component: {fileID: 607682778}
+  - component: {fileID: 607682781}
   m_Layer: 5
   m_Name: Quit
   m_TagString: Untagged
@@ -612,7 +574,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 460727749}
+      - m_Target: {fileID: 607682781}
         m_TargetAssemblyTypeName: FuckOFF, Assembly-CSharp
         m_MethodName: Exit
         m_Mode: 1
@@ -662,6 +624,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 607682776}
   m_CullTransparentMesh: 1
+--- !u!114 &607682781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607682776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72bfed1887ceee145bccced037e1bef3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &612697004
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,6 +648,7 @@ GameObject:
   - component: {fileID: 612697008}
   - component: {fileID: 612697007}
   - component: {fileID: 612697006}
+  - component: {fileID: 612697009}
   m_Layer: 5
   m_Name: Play
   m_TagString: Untagged
@@ -745,7 +720,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 460727747}
+      - m_Target: {fileID: 612697009}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
@@ -807,6 +782,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 612697004}
   m_CullTransparentMesh: 1
+--- !u!114 &612697009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612697004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b915930a1e4f447bd56e6e95ff3183, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &654160104
 GameObject:
   m_ObjectHideFlags: 0
@@ -1269,6 +1256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4edfe14bad888b4ea768e1ddc75e0a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  volumeSlider: {fileID: 0}
   self: {fileID: 1435096741}
   musicSource: {fileID: 553083339}
   SFXSource: {fileID: 1602730327}
@@ -1435,6 +1423,7 @@ GameObject:
   - component: {fileID: 1644596281}
   - component: {fileID: 1644596280}
   - component: {fileID: 1644596279}
+  - component: {fileID: 1644596282}
   m_Layer: 5
   m_Name: Settings
   m_TagString: Untagged
@@ -1506,9 +1495,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 460727748}
-        m_TargetAssemblyTypeName: OptionsButton, Assembly-CSharp
-        m_MethodName: goTosetting
+      - m_Target: {fileID: 1644596282}
+        m_TargetAssemblyTypeName: to_option, Assembly-CSharp
+        m_MethodName: toControl
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1568,6 +1557,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1644596277}
   m_CullTransparentMesh: 1
+--- !u!114 &1644596282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644596277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6520cd9c850d9b448bb4b82b9626041e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1857462246
 GameObject:
   m_ObjectHideFlags: 0
@@ -1629,7 +1630,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 15be055bdea3daf49bc358f153d7b976, type: 2}
+  - {fileID: 2100000, guid: c00f0c27a74a9e143a0a5220d87ef57c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1708,7 +1709,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 788.5, y: -468.6}
+  m_AnchoredPosition: {x: 891, y: -421}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2003542982
@@ -1731,7 +1732,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5e609f3328d7f7843aacadd7c98d7b82, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 522b6886207fb174aa385d5445834d99, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

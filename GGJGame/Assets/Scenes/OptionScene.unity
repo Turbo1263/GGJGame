@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -809,7 +809,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f284b954a3c9f3a4e964359a77d85ac7, type: 2}
+  - {fileID: 2100000, guid: 5d352f18d481801469bf0d19318aa388, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1024,7 +1024,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-<<<<<<< HEAD
       - m_Target: {fileID: 565490529}
         m_TargetAssemblyTypeName: AudioManager, Assembly-CSharp
         m_MethodName: changeVolume
@@ -1032,7 +1031,11 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-=======
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
@@ -1040,13 +1043,11 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: 
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
 --- !u!114 &565490529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1054,19 +1055,21 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 565490526}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e4edfe14bad888b4ea768e1ddc75e0a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   volumeSlider: {fileID: 565490528}
+  self: {fileID: 0}
   musicSource: {fileID: 0}
   SFXSource: {fileID: 0}
   MenuMusic: {fileID: 8300000, guid: b10f391aa3d5d4349af82d47356b22f2, type: 3}
   StartButtonSound: {fileID: 8300000, guid: 8406dec56d1446240bf3eca7138d0e08, type: 3}
   ButtonClick: {fileID: 0}
-=======
->>>>>>> 1f2e81c058ee5eea2a97c0bcccc0613a853cb7c5
+  OptionsMusic: {fileID: 0}
+  InGameMusic1: {fileID: 0}
+  SCOTLAND_FOREVER: {fileID: 0}
 --- !u!1 &757718407
 GameObject:
   m_ObjectHideFlags: 0

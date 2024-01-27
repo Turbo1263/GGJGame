@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/OptionScene.unity
-=======
-- path: Assets/Scenes/Mining Level.unity
->>>>>>> 3ec1108dca0a0d963211ccaae76d8b2e53fe14c0
+- path: Assets/Scenes/Keybinds.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
