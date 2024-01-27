@@ -10,5 +10,6 @@ public class OptionsButton : MonoBehaviour
     public void goTosetting()
     {
         SceneManager.LoadSceneAsync("OptionScene");
+        
     }
 }

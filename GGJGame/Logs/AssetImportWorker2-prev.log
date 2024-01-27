@@ -1,0 +1,393 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.13f1 (5f90a5ebde0f) revision 6262949'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 16226 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/daaxe/OneDrive/Documents/GitHub/GGJGame
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50960
+Successfully changed project path to: C:/Users/daaxe/OneDrive/Documents/GitHub/GGJGame
+C:/Users/daaxe/OneDrive/Documents/GitHub/GGJGame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27492] Host "[IP] 10.100.2.26 [Port] 0 [Flags] 2 [Guid] 682211780 [EditorId] 682211780 [Version] 1048832 [Id] WindowsEditor(7,Damons_Surface) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [27492] Host "[IP] 10.100.2.26 [Port] 0 [Flags] 2 [Guid] 682211780 [EditorId] 682211780 [Version] 1048832 [Id] WindowsEditor(7,Damons_Surface) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 11.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.13f1 (5f90a5ebde0f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/daaxe/OneDrive/Documents/GitHub/GGJGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     8113 MB
+    Driver:   31.0.101.4502
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56760
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007920 seconds.
+- Loaded All Assemblies, in  0.486 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.338 seconds
+Domain Reload Profiling: 822ms
+	BeginReloadAssembly (155ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (73ms)
+	LoadAllAssembliesAndSetupDomain (188ms)
+		LoadAssemblies (151ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (184ms)
+				TypeCache.ScanAssembly (168ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (338ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (262ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (170ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.901 seconds
+Refreshing native plugins compatible for Editor in 4.80 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.809 seconds
+Domain Reload Profiling: 1707ms
+	BeginReloadAssembly (197ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (578ms)
+		LoadAssemblies (365ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (317ms)
+			TypeCache.Refresh (278ms)
+				TypeCache.ScanAssembly (256ms)
+			ScanForSourceGeneratedMonoScriptInfo (32ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (809ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (559ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (429ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 4.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3087 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (57.1 KB). Loaded Objects now: 3548.
+Memory consumption went from 121.8 MB to 121.7 MB.
+Total: 4.135900 ms (FindLiveObjects: 0.325700 ms CreateObjectMapping: 0.248900 ms MarkObjects: 3.413900 ms  DeleteObjects: 0.145000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 70866.401698 seconds.
+  path: Assets/Game Jam Audio/InGameMusic.mp3
+  artifactKey: Guid(42df5e9d108ee474baf75a13c8423b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/InGameMusic.mp3 using Guid(42df5e9d108ee474baf75a13c8423b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f6787aa69b82556b085bfe8fc36faf') in 0.134772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Game Jam Audio/SuccessSound.mp3
+  artifactKey: Guid(b69304bbbdff43d4f9da78d733b99bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/SuccessSound.mp3 using Guid(b69304bbbdff43d4f9da78d733b99bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae06c031fab15267a23081250a035812') in 0.018463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Game Jam Audio/Punch #1.mp3
+  artifactKey: Guid(111ff740c6c79fd4a9fe82f751091f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/Punch #1.mp3 using Guid(111ff740c6c79fd4a9fe82f751091f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6365659b406949148f9d57068492e6c9') in 0.021654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Game Jam Audio/Whoosh.mp3
+  artifactKey: Guid(df37c09d15643484686f3d05610177dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/Whoosh.mp3 using Guid(df37c09d15643484686f3d05610177dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e9caa204413846f4e5e12996ebc13c') in 0.020115 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Game Jam Audio/blast-mining-77530.mp3
+  artifactKey: Guid(d3103cf91526eae4b9fc9f49258e2aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/blast-mining-77530.mp3 using Guid(d3103cf91526eae4b9fc9f49258e2aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac566e5fc9d48fd6cfe62abec439c4e6') in 0.017665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Game Jam Audio/metal-pipe-clang.mp3
+  artifactKey: Guid(7aa9d33614c271446b10ed239c359e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/metal-pipe-clang.mp3 using Guid(7aa9d33614c271446b10ed239c359e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826ecc68123295e4ba8f96c63a9b44f5') in 0.019575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Game Jam Audio/Spring #1.mp3
+  artifactKey: Guid(f3fcdba17c6d3f1469b36293f4b9b0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/Spring #1.mp3 using Guid(f3fcdba17c6d3f1469b36293f4b9b0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa8ffee7fbf561bfb1fee743f04e2ac') in 0.017229 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Game Jam Audio/Ding.mp3
+  artifactKey: Guid(abb1a899bebb3ee4c977cae2fbe3a339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/Ding.mp3 using Guid(abb1a899bebb3ee4c977cae2fbe3a339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69544205afb5755d73d0b7ded7b2f9dd') in 0.017365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Game Jam Audio/RockVibeMusic.mp3
+  artifactKey: Guid(ac07bce45424f6d44bd828c21ab5d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/RockVibeMusic.mp3 using Guid(ac07bce45424f6d44bd828c21ab5d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b837495b966bbd8e5c1c2bfb4783a0b') in 0.016529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.432286 seconds.
+  path: Assets/Scenes/Main Menu.unity
+  artifactKey: Guid(683820c89c00fd54689e3c8635fda262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main Menu.unity using Guid(683820c89c00fd54689e3c8635fda262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48583e964bf87d6c971e570fce18d29a') in 0.000650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.185242 seconds.
+  path: Assets/Scenes/OptionScene.unity
+  artifactKey: Guid(35b293977ad2cde43b9d7ada2dbd295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OptionScene.unity using Guid(35b293977ad2cde43b9d7ada2dbd295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e4e4179dc87b0414906615046d8202') in 0.000589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.488168 seconds.
+  path: Assets/Scenes/Loading_funni_1.unity
+  artifactKey: Guid(60801c4f99988a041ae7be09a7c0dd49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Loading_funni_1.unity using Guid(60801c4f99988a041ae7be09a7c0dd49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd99274c1d6ad4ba486dac584a8a6d08') in 0.000658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.472 seconds
+Refreshing native plugins compatible for Editor in 3.78 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.074 seconds
+Domain Reload Profiling: 1545ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (192ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1075ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (561ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (429ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 3.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3079 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3561.
+Memory consumption went from 127.0 MB to 127.0 MB.
+Total: 2.493500 ms (FindLiveObjects: 0.231900 ms CreateObjectMapping: 0.092900 ms MarkObjects: 2.109200 ms  DeleteObjects: 0.057800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 237.632209 seconds.
+  path: Assets/Game Jam Audio
+  artifactKey: Guid(cd163ad7e49d0854aa055c81b702cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio using Guid(cd163ad7e49d0854aa055c81b702cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc252a3af1ba263042a5045cdb828d3c') in 0.003206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.500225 seconds.
+  path: Assets/Game Jam Audio/OptionsMusic.mp3
+  artifactKey: Guid(306bea19d7809904eb529228342a0cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Jam Audio/OptionsMusic.mp3 using Guid(306bea19d7809904eb529228342a0cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357ee5ea03848fd9b8e0d0abe79ab113') in 0.092668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 476.777002 seconds.
+  path: Assets/Scenes/Keybinds.unity
+  artifactKey: Guid(cfed6ed95c2bba342819650840603ce5) Importer(2089858483,ef33d1177ba250d2f1210d0eb9ad1321)
+Start importing Assets/Scenes/Keybinds.unity using Guid(cfed6ed95c2bba342819650840603ce5) Importer(2089858483,ef33d1177ba250d2f1210d0eb9ad1321) Opening scene 'Assets/Scenes/Keybinds.unity additively'
+Loaded scene 'Assets/Scenes/Keybinds.unity'
+	Deserialize:            14.031 ms
+	Integration:            23.307 ms
+	Integration of assets:  1.266 ms
+	Thread Wait Time:       0.034 ms
+	Total Operation Time:   38.638 ms
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a4dabde5aa2ed44617085850b0c37b5d') in 0.189979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Scenes/OptionScene.unity
+  artifactKey: Guid(35b293977ad2cde43b9d7ada2dbd295f) Importer(2089858483,ef33d1177ba250d2f1210d0eb9ad1321)
+Start importing Assets/Scenes/OptionScene.unity using Guid(35b293977ad2cde43b9d7ada2dbd295f) Importer(2089858483,ef33d1177ba250d2f1210d0eb9ad1321) Opening scene 'Assets/Scenes/OptionScene.unity additively'
+Loaded scene 'Assets/Scenes/OptionScene.unity'
+	Deserialize:            7.055 ms
+	Integration:            8.847 ms
+	Integration of assets:  0.047 ms
+	Thread Wait Time:       0.025 ms
+	Total Operation Time:   15.974 ms
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4d7b647e8775989595ffbdfee7d84f14') in 0.039616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
