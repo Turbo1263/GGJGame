@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - FuckOFF
     - MainMenu
     - OptionsButton
+    - return_home
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -17,8 +18,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
-    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
   serializedClasses:
     UnityEngine.CoreModule:
     - UnityEngine.Events.ArgumentCache
@@ -31,7 +33,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.FontData
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
     - UnityEngine.UI.Navigation
+    - UnityEngine.UI.Slider/SliderEvent
     - UnityEngine.UI.SpriteState
+    - UnityEngine.UI.Toggle/ToggleEvent
   methodsToPreserve:
   - assembly: Assembly-CSharp
     fullTypeName: FuckOFF
@@ -42,6 +46,9 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: OptionsButton
     methodName: goTosetting
+  - assembly: Assembly-CSharp
+    fullTypeName: return_home
+    methodName: toMenu
   sceneClasses:
     Assets/Scenes/Loading_funni_1.unity:
     - Class: 1
@@ -77,9 +84,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
     - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -91,8 +106,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 1574}
-    - Class: 114
-      Script: {instanceID: 2276}
     - Class: 114
       Script: {instanceID: 2448}
     - Class: 114
@@ -161,9 +174,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
     - Class: 28
       Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
     - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -173,9 +194,41 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1574}
+    - Class: 114
+      Script: {instanceID: 2568}
+    - Class: 114
+      Script: {instanceID: 2770}
+    - Class: 114
+      Script: {instanceID: 3054}
+    - Class: 114
+      Script: {instanceID: 4848}
+    - Class: 114
+      Script: {instanceID: 4896}
+    - Class: 114
+      Script: {instanceID: 5214}
+    - Class: 114
+      Script: {instanceID: 5508}
+    - Class: 114
+      Script: {instanceID: 5968}
+    - Class: 114
+      Script: {instanceID: 26370}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1018,6 +1071,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 751e5bae2a317288c2ab58d66687092b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: return_home
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main Menu.unity

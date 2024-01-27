@@ -307,9 +307,10 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Unity/2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/FuckOFF.cs"
-"Assets/MainMenu.cs"
-"Assets/OptionsButton.cs"
+"Assets/Mason is cringe/FuckOFF.cs"
+"Assets/Mason is cringe/MainMenu.cs"
+"Assets/Mason is cringe/OptionsButton.cs"
+"Assets/Mason is cringe/return_home.cs"
 -langversion:9.0
 
 /deterministic
