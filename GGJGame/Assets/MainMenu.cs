@@ -9,5 +9,6 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("Loading_funni_1");
     }
+    
 
 }
