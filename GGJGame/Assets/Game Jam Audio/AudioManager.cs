@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class AudioManager : MonoBehaviour
 {
 
-    [SerializeField]
+    [SerializeField] Slider volumeSlider;
     private GameObject self;
 
     [Header("-------- Audio Source --------")]
@@ -35,5 +36,11 @@ public class AudioManager : MonoBehaviour
         musicSource.loop = false;
         musicSource.Play();
     }
+
+    public void changeVolume()
+    {
+        AudioListener.volume = volumeSlider.value;
+    }
+
 }
 
