@@ -21,18 +21,22 @@ public class CharacterMoveController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
         posX = transform.position.x;
         posY = transform.position.y;
         posZ = transform.position.z;
+        if (posY <= 0.5f)
+        {
+            transform.position = new Vector3(posX, 0.74f, posZ);
+        }
     }
     void FixedUpdate()
     {
-        verticalLeft = Input.GetAxis("VerticalLeft");
-        horizontalLeft = Input.GetAxis("HorizontalLeft");
-        verticalRight = Input.GetAxis("VerticalRight");
-        horizontalRight = Input.GetAxis("HorizontalRight");
+        verticalLeft = Input.GetAxis("VerticalLeft1");
+        horizontalLeft = Input.GetAxis("HorizontalLeft1");
+        verticalRight = Input.GetAxis("VerticalRight1");
+        horizontalRight = Input.GetAxis("HorizontalRight1");
         transform.position = new Vector3(posX + (moveSpeed * -horizontalLeft * Time.deltaTime), posY, posZ + (moveSpeed * verticalLeft * Time.deltaTime));
         transform.Rotate(new Vector3(0, rotY + (rotSpeed * horizontalRight * Time.deltaTime), 0));
 

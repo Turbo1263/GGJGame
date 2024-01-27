@@ -23,12 +23,6 @@ public class SpawnRocks : MonoBehaviour
         GameObject gem2 = Instantiate(Gem2, pof2.position, Quaternion.identity);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void FixedUpdate()
     {
         if(gem1Taken == true) 
