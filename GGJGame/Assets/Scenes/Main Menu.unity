@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1266,6 +1266,7 @@ MonoBehaviour:
   OptionsMusic: {fileID: 8300000, guid: 306bea19d7809904eb529228342a0cc5, type: 3}
   InGameMusic1: {fileID: 8300000, guid: 42df5e9d108ee474baf75a13c8423b4f, type: 3}
   SCOTLAND_FOREVER: {fileID: 8300000, guid: 6026bf5fe4df11c4b9786cbd9d3b9e67, type: 3}
+  RockVibe2: {fileID: 8300000, guid: 60c8298b9e16dae4e9e87220cb03f3dc, type: 3}
 --- !u!4 &1435096743
 Transform:
   m_ObjectHideFlags: 0
