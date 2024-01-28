@@ -64,6 +64,7 @@
     <Compile Include="Assets\Mason is cringe\FuckOFF.cs" />
     <Compile Include="Assets\Mason is cringe\To_frick_u.cs" />
     <Compile Include="Assets\Scripts\MouseClickHandler.cs" />
+    <Compile Include="Assets\Scripts\LoadMiningLevel.cs" />
     <Compile Include="Assets\Mason is cringe\MainMenu.cs" />
     <Compile Include="Assets\Mason is cringe\toControls.cs" />
     <Compile Include="Assets\Scripts\PlayerRespawn.cs" />
@@ -75,6 +76,8 @@
     <Compile Include="Assets\Mason is cringe\returnbozo.cs" />
     <Compile Include="Assets\ScotlandToggle.cs" />
     <Compile Include="Assets\Scripts\CharacterMoveController.cs" />
+    <Compile Include="Assets\Scripts\TakeGems.cs" />
+    <Compile Include="Assets\Scripts\SCOTLAND_FOREVER.cs" />
     <Compile Include="Assets\Game Jam Audio\AudioManager.cs" />
     <Compile Include="Assets\Scripts\CannonShoot.cs" />
   </ItemGroup>

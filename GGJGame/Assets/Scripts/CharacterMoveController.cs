@@ -10,11 +10,13 @@ public class CharacterMoveController : MonoBehaviour
     private float rotX, rotY, rotZ;
     [SerializeField]
     private float moveSpeed, rotSpeed;
+    public bool buttonADown;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log(Input.GetJoystickNames()[0] + "is moved");
         posX = transform.position.x;
         posY = transform.position.y;
         posZ = transform.position.z;
@@ -33,6 +35,7 @@ public class CharacterMoveController : MonoBehaviour
     }
     void FixedUpdate()
     {
+        buttonADown = Input.GetButtonDown ("Interact");
         verticalLeft = Input.GetAxis("VerticalLeft1");
         horizontalLeft = Input.GetAxis("HorizontalLeft1");
         verticalRight = Input.GetAxis("VerticalRight1");

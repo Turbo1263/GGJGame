@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cannonBall: {fileID: 4367136277224929340, guid: cce7b03275e53714a8a2ab4b55868255, type: 3}
-  cannonBallSpeed: 150
+  cannonBallSpeed: 75
   pof: {fileID: 6508783973988772775}
 --- !u!4 &2921571025011572517 stripped
 Transform:

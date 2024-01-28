@@ -361,14 +361,21 @@
 "Assets/Mason is cringe/toControls.cs"
 "Assets/Mason is cringe/To_frick_u.cs"
 "Assets/Mason is cringe/to_option.cs"
+<<<<<<< HEAD
 "Assets/ScotlandToggle.cs"
+=======
+>>>>>>> origin/Mason
 "Assets/Scripts/CannonShoot.cs"
 "Assets/Scripts/CharacterMoveController.cs"
+"Assets/Scripts/DropGems.cs"
+"Assets/Scripts/LoadMiningLevel.cs"
 "Assets/Scripts/MineCartLauncher.cs"
 "Assets/Scripts/MouseClickHandler.cs"
 "Assets/Scripts/Player2Controller.cs"
 "Assets/Scripts/PlayerRespawn.cs"
+"Assets/Scripts/SCOTLAND_FOREVER.cs"
 "Assets/Scripts/SpawnGems.cs"
+"Assets/Scripts/TakeGems.cs"
 -langversion:9.0
 
 /deterministic

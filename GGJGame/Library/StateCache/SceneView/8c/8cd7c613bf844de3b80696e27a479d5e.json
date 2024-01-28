@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-142.23167419433595,"y":-54.837032318115237,"z":69.2762451171875},"rotation":{"x":-0.14388419687747956,"y":0.528501033782959,"z":-0.09143076092004776,"w":-0.8316612243652344},"size":87.76995849609375,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-34.768402099609378,"y":-199.0084991455078,"z":-252.12344360351563},"rotation":{"x":0.0016664783470332623,"y":-0.9493158459663391,"z":0.31439322233200076,"w":0.005023735575377941},"size":189.04530334472657,"orthographic":false}
+>>>>>>> origin/Mason

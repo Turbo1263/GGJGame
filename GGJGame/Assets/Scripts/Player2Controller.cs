@@ -10,11 +10,13 @@ public class Player2Controller : MonoBehaviour
     private float rotX, rotY, rotZ;
     [SerializeField]
     private float moveSpeed, rotSpeed;
+    public bool buttonADown;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log(Input.GetJoystickNames()[1] + "is moved");
         posX = transform.position.x;
         posY = transform.position.y;
         posZ = transform.position.z;
@@ -33,6 +35,7 @@ public class Player2Controller : MonoBehaviour
     }
     void FixedUpdate()
     {
+        buttonADown = Input.GetButtonDown("Interact");
         verticalLeft = Input.GetAxis("VerticalLeft2");
         horizontalLeft = Input.GetAxis("HorizontalLeft2");
         verticalRight = Input.GetAxis("VerticalRight2");
@@ -40,6 +43,9 @@ public class Player2Controller : MonoBehaviour
         //transform.position = new Vector3(posX + (moveSpeed * -horizontalLeft * Time.deltaTime), posY, posZ + (moveSpeed * verticalLeft * Time.deltaTime));
         transform.Translate(Vector3.forward * (moveSpeed) * Time.deltaTime * verticalLeft);
         transform.Rotate(new Vector3(0, rotY + (rotSpeed * horizontalRight * Time.deltaTime), 0));
+    }
+    private void Update()
+    {
 
     }
 }
