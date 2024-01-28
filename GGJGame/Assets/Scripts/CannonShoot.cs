@@ -18,6 +18,7 @@ public class CannonShoot : MonoBehaviour
         Rigidbody rb = ball.AddComponent<Rigidbody>();
 
         rb.velocity = cannonBallSpeed * pof.forward;
+        rb.useGravity = false;
 
         yield return new WaitForSeconds(1f);
 
