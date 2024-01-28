@@ -39,7 +39,7 @@ public class AudioManager : MonoBehaviour
         yield return new WaitForSeconds(.2f);
     }    
 
-    private void Start()
+    public void Start()
     {
         // Create a temporary reference to the current scene.
         Scene currentScene = SceneManager.GetActiveScene();
@@ -63,6 +63,16 @@ public class AudioManager : MonoBehaviour
             
             musicSource.clip = InGameMusic1;
             musicSource.Play();
+        }
+
+        if (!PlayerPrefs.HasKey("musicVolume"))
+        {
+            PlayerPrefs.SetFloat("musicVolume", 1);
+            Load();
+        }
+        else
+        {
+            Load();
         }
     }
     private void LateUpdate()
@@ -126,8 +136,17 @@ public class AudioManager : MonoBehaviour
     public void changeVolume()
     {
         AudioListener.volume = volumeSlider.value;
+        Save();
     }
 
+    public void Load()
+    {
+        volumeSlider.value = PlayerPrefs.GetFloat("soundVolume");
+    }
+    public void Save()
+    {
+        PlayerPrefs.SetFloat("soundVolume", volumeSlider.value);
+    }
 
 }
 
