@@ -3,7 +3,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using Unity.VisualScripting;
-using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
@@ -22,12 +21,10 @@ public class AudioManager : MonoBehaviour
     public AudioClip MenuMusic;
     public AudioClip StartButtonSound;
     public AudioClip ButtonClick;
-
-
-
     public AudioClip OptionsMusic;
     public AudioClip InGameMusic1;
     public AudioClip SCOTLAND_FOREVER;
+    public AudioClip RockVibe2;
 
     private string currentScene;
     private string oldScene;
@@ -62,6 +59,11 @@ public class AudioManager : MonoBehaviour
         {
             
             musicSource.clip = InGameMusic1;
+            musicSource.Play();
+        }
+        else if (sceneName =="Mining Level")
+        {
+            musicSource.clip = RockVibe2;
             musicSource.Play();
         }
     }
@@ -104,6 +106,11 @@ public class AudioManager : MonoBehaviour
         {
 
             musicSource.clip = InGameMusic1;
+            musicSource.Play();
+        }
+        else if (sceneName == "Mining Level")
+        {
+            musicSource.clip = RockVibe2;
             musicSource.Play();
         }
     }
