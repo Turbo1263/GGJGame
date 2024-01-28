@@ -259,6 +259,7 @@ MonoBehaviour:
   horizontalRight: 0
   moveSpeed: 3
   rotSpeed: 15
+  buttonADown: 0
 --- !u!136 &1098378389160984029
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -294,6 +295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1f793f5d04650846909fb3246bf4763, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  self: {fileID: 3487869078491825533}
 --- !u!1 &4358358403363785263
 GameObject:
   m_ObjectHideFlags: 0

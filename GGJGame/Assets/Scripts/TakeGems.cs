@@ -50,6 +50,14 @@ public class TakeGems : MonoBehaviour
     }
     private void DropGems()
     {   //Destroys Gem & Clears var value
+        if(self.name == "Player2")
+        {
+           self.GetComponent<Player2Controller>().scoreHandler.GetComponent<ScoreIncrease>().AddScoreBlue(1);
+        }
+        if (self.name == "Player")
+        {
+            self.GetComponent<CharacterMoveController>().scoreHandler.GetComponent<ScoreIncrease>().AddScoreRed(1);
+        }
         Destroy(objectIWantToPickUp); 
         objectIWantToPickUp = null;
     }

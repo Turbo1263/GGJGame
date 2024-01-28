@@ -69,14 +69,17 @@
     <Compile Include="Assets\Mason is cringe\toControls.cs" />
     <Compile Include="Assets\Scripts\PlayerRespawn.cs" />
     <Compile Include="Assets\Scripts\Player2Controller.cs" />
+    <Compile Include="Assets\Scripts\scoreboard_red.cs" />
     <Compile Include="Assets\Scripts\SpawnGems.cs" />
+    <Compile Include="Assets\Scripts\DropGems.cs" />
     <Compile Include="Assets\Scripts\MineCartLauncher.cs" />
     <Compile Include="Assets\Mason is cringe\OptionsButton.cs" />
     <Compile Include="Assets\Mason is cringe\to_option.cs" />
     <Compile Include="Assets\Mason is cringe\returnbozo.cs" />
     <Compile Include="Assets\Scripts\CharacterMoveController.cs" />
+    <Compile Include="Assets\Scripts\ScoreIncrease.cs" />
+    <Compile Include="Assets\Scripts\GUIforScore.cs" />
     <Compile Include="Assets\Scripts\TakeGems.cs" />
-    <Compile Include="Assets\Scripts\SCOTLAND_FOREVER.cs" />
     <Compile Include="Assets\Game Jam Audio\AudioManager.cs" />
     <Compile Include="Assets\Scripts\CannonShoot.cs" />
   </ItemGroup>

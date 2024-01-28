@@ -11,6 +11,8 @@ public class CharacterMoveController : MonoBehaviour
     [SerializeField]
     private float moveSpeed, rotSpeed;
     public bool buttonADown;
+    [SerializeField]
+    public GameObject scoreHandler;
 
 
     // Start is called before the first frame update

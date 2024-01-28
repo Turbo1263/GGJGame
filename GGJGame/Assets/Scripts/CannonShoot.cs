@@ -19,6 +19,7 @@ public class CannonShoot : MonoBehaviour
 
         rb.velocity = cannonBallSpeed * pof.forward;
         rb.useGravity = false;
+        rb.mass = 10f;
 
         yield return new WaitForSeconds(1f);
 
