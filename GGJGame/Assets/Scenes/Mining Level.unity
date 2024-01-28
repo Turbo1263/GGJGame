@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.43907613, g: 0.4873261, b: 0.5675782, a: 1}
+  m_IndirectSpecularColor: {r: 0.43907577, g: 0.4873259, b: 0.5675775, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -473,6 +473,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: Blast
+      value: 
+      objectReference: {fileID: 8300000, guid: 4fe0a6704d571b748bfbf862f375b5e9, type: 3}
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: musicSource
+      value: 
+      objectReference: {fileID: 1996169815}
     - target: {fileID: 2576149089386440095, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
       propertyPath: m_Name
       value: Cannon
@@ -530,6 +538,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: Blast
+      value: 
+      objectReference: {fileID: 8300000, guid: 4fe0a6704d571b748bfbf862f375b5e9, type: 3}
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: musicSource
+      value: 
+      objectReference: {fileID: 1996169815}
     - target: {fileID: 2576149089386440095, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
       propertyPath: m_Name
       value: Cannon (3)
@@ -670,6 +686,14 @@ PrefabInstance:
       propertyPath: self
       value: 
       objectReference: {fileID: 563045102}
+    - target: {fileID: 7807700433674617307, guid: 6d7b08cf1ef516744853c1556f301473, type: 3}
+      propertyPath: dropSound
+      value: 
+      objectReference: {fileID: 8300000, guid: abb1a899bebb3ee4c977cae2fbe3a339, type: 3}
+    - target: {fileID: 7807700433674617307, guid: 6d7b08cf1ef516744853c1556f301473, type: 3}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: df37c09d15643484686f3d05610177dc, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -686,6 +710,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: Blast
+      value: 
+      objectReference: {fileID: 8300000, guid: 4fe0a6704d571b748bfbf862f375b5e9, type: 3}
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: musicSource
+      value: 
+      objectReference: {fileID: 1996169815}
     - target: {fileID: 2576149089386440095, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
       propertyPath: m_Name
       value: Cannon (1)
@@ -735,6 +767,134 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+--- !u!1 &1996169814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1996169816}
+  - component: {fileID: 1996169815}
+  m_Layer: 0
+  m_Name: CannonSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1996169815
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996169814}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 4fe0a6704d571b748bfbf862f375b5e9, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1996169816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996169814}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2012890113
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -743,6 +903,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: Blast
+      value: 
+      objectReference: {fileID: 8300000, guid: 4fe0a6704d571b748bfbf862f375b5e9, type: 3}
+    - target: {fileID: 2103252668747963356, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
+      propertyPath: musicSource
+      value: 
+      objectReference: {fileID: 1996169815}
     - target: {fileID: 2576149089386440095, guid: 6f43bf3bf640e2a4681903a19262123e, type: 3}
       propertyPath: m_Name
       value: Cannon (2)
@@ -867,6 +1035,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   self: {fileID: 2075376977}
+  dropSound: {fileID: 8300000, guid: abb1a899bebb3ee4c977cae2fbe3a339, type: 3}
+  pickupSound: {fileID: 8300000, guid: df37c09d15643484686f3d05610177dc, type: 3}
 --- !u!114 &2075376986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -935,7 +1105,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player2
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 3421251447937754966, guid: 9357634aeddd26842a4bc5f2290db7f0, type: 3}
+      propertyPath: dropSound
+      value: 
+      objectReference: {fileID: 8300000, guid: abb1a899bebb3ee4c977cae2fbe3a339, type: 3}
+    - target: {fileID: 3421251447937754966, guid: 9357634aeddd26842a4bc5f2290db7f0, type: 3}
+      propertyPath: pickupSound
+      value: 
+      objectReference: {fileID: 8300000, guid: df37c09d15643484686f3d05610177dc, type: 3}
+    m_RemovedComponents:
+    - {fileID: 3421251447937754966, guid: 9357634aeddd26842a4bc5f2290db7f0, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -1051,3 +1230,4 @@ SceneRoots:
   - {fileID: 1960438790}
   - {fileID: 2012890113}
   - {fileID: 1394127712}
+  - {fileID: 1996169816}

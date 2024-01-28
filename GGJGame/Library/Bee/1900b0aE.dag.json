@@ -360,13 +360,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-<<<<<<< HEAD
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -377,11 +372,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 248,
-=======
-      "PayloadOffset": 231,
->>>>>>> origin/Mason
       "PayloadLength": 44844,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -394,15 +385,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 45186,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 45169,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2230,11 +2215,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 45350,
-=======
-      "PayloadOffset": 45316,
->>>>>>> origin/Mason
       "PayloadLength": 7355,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -2435,15 +2416,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 52810,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 52776,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2454,11 +2429,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 52943,
-=======
-      "PayloadOffset": 52892,
->>>>>>> origin/Mason
       "PayloadLength": 39357,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -2471,15 +2442,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 92386,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 92335,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -2918,11 +2883,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 92542,
-=======
-      "PayloadOffset": 92474,
->>>>>>> origin/Mason
       "PayloadLength": 7893,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3135,15 +3096,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 100548,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 100480,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3154,11 +3109,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 100689,
-=======
-      "PayloadOffset": 100604,
->>>>>>> origin/Mason
       "PayloadLength": 50957,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -3171,15 +3122,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 151740,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 151655,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3637,11 +3582,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 151904,
-=======
-      "PayloadOffset": 151802,
->>>>>>> origin/Mason
       "PayloadLength": 7521,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -3846,15 +3787,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 159530,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 159428,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3865,11 +3800,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 159663,
-=======
-      "PayloadOffset": 159544,
->>>>>>> origin/Mason
       "PayloadLength": 36455,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -3882,15 +3813,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 196204,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 196085,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4238,11 +4163,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 196360,
-=======
-      "PayloadOffset": 196224,
->>>>>>> origin/Mason
       "PayloadLength": 8219,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4463,15 +4384,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 204699,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 204563,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4482,11 +4397,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 204847,
-=======
-      "PayloadOffset": 204694,
->>>>>>> origin/Mason
       "PayloadLength": 33874,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -4499,15 +4410,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 238822,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 238669,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -4806,11 +4711,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 238993,
-=======
-      "PayloadOffset": 238823,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5033,15 +4934,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 247420,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 247250,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5052,11 +4947,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 247580,
-=======
-      "PayloadOffset": 247393,
->>>>>>> origin/Mason
       "PayloadLength": 36647,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -5069,15 +4960,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 284340,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 284153,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5387,11 +5272,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 284523,
-=======
-      "PayloadOffset": 284319,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5614,15 +5495,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 292932,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 292728,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5633,11 +5508,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 293074,
-=======
-      "PayloadOffset": 292853,
->>>>>>> origin/Mason
       "PayloadLength": 64392,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -5650,15 +5521,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 357561,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 357340,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6225,11 +6090,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 357726,
-=======
-      "PayloadOffset": 357488,
->>>>>>> origin/Mason
       "PayloadLength": 7844,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6442,15 +6303,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 365679,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 365441,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6461,11 +6316,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 365816,
-=======
-      "PayloadOffset": 365561,
->>>>>>> origin/Mason
       "PayloadLength": 36170,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -6478,15 +6329,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 402076,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 401821,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -6794,11 +6639,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 402236,
-=======
-      "PayloadOffset": 401964,
->>>>>>> origin/Mason
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7009,15 +6850,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 410105,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 409833,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7028,11 +6863,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 410245,
-=======
-      "PayloadOffset": 409956,
->>>>>>> origin/Mason
       "PayloadLength": 34590,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -7045,15 +6876,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 444928,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 444639,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7343,11 +7168,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 445091,
-=======
-      "PayloadOffset": 444785,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -7570,15 +7391,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 453528,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 453222,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7589,11 +7404,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 453698,
-=======
-      "PayloadOffset": 453375,
->>>>>>> origin/Mason
       "PayloadLength": 35351,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -7606,15 +7417,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 489172,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 488849,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -7906,11 +7711,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 489365,
-=======
-      "PayloadOffset": 489025,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8133,15 +7934,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 497812,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 497472,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8152,11 +7947,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 497992,
-=======
-      "PayloadOffset": 497635,
->>>>>>> origin/Mason
       "PayloadLength": 34124,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -8169,15 +7960,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 532249,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 531892,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8458,11 +8243,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 532452,
-=======
-      "PayloadOffset": 532078,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8685,15 +8466,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 540855,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 540481,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8704,11 +8479,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 540991,
-=======
-      "PayloadOffset": 540600,
->>>>>>> origin/Mason
       "PayloadLength": 37445,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -8721,15 +8492,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 578525,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 578134,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9056,11 +8821,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 578684,
-=======
-      "PayloadOffset": 578276,
->>>>>>> origin/Mason
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9277,15 +9038,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 586834,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 586426,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9296,11 +9051,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 586967,
-=======
-      "PayloadOffset": 586542,
->>>>>>> origin/Mason
       "PayloadLength": 38529,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -9313,15 +9064,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 625582,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 625157,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9662,11 +9407,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 625738,
-=======
-      "PayloadOffset": 625296,
->>>>>>> origin/Mason
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9883,15 +9624,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VSCode.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 633893,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 633451,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9902,11 +9637,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 634031,
-=======
-      "PayloadOffset": 633572,
->>>>>>> origin/Mason
       "PayloadLength": 34239,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -9919,15 +9650,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2",
       "DisplayName": "Writing Unity.VSCode.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 668361,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 667902,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10212,11 +9937,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VSCode.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 668522,
-=======
-      "PayloadOffset": 668046,
->>>>>>> origin/Mason
       "PayloadLength": 8295,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10439,15 +10160,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 676934,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 676458,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10458,11 +10173,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 677079,
-=======
-      "PayloadOffset": 676586,
->>>>>>> origin/Mason
       "PayloadLength": 86251,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -10475,15 +10186,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 763428,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 762935,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11179,11 +10884,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 763596,
-=======
-      "PayloadOffset": 763086,
->>>>>>> origin/Mason
       "PayloadLength": 8045,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11400,15 +11101,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 771757,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 771247,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11419,11 +11114,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 771901,
-=======
-      "PayloadOffset": 771374,
->>>>>>> origin/Mason
       "PayloadLength": 36552,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -11436,15 +11127,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 808550,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 808023,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11758,11 +11443,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 808717,
-=======
-      "PayloadOffset": 808173,
->>>>>>> origin/Mason
       "PayloadLength": 7757,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11973,15 +11654,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 816589,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 816045,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11992,11 +11667,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 816732,
-=======
-      "PayloadOffset": 816171,
->>>>>>> origin/Mason
       "PayloadLength": 33669,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -12009,15 +11680,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 850497,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 849936,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12315,11 +11980,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 850663,
-=======
-      "PayloadOffset": 850085,
->>>>>>> origin/Mason
       "PayloadLength": 8380,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12544,15 +12205,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 859169,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 858591,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12563,11 +12218,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 859323,
-=======
-      "PayloadOffset": 858728,
->>>>>>> origin/Mason
       "PayloadLength": 37917,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -12580,15 +12231,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 897347,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 896752,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -12966,11 +12611,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 897524,
-=======
-      "PayloadOffset": 896912,
->>>>>>> origin/Mason
       "PayloadLength": 8076,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13187,15 +12828,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 905715,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 905103,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13206,11 +12841,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 905858,
-=======
-      "PayloadOffset": 905229,
->>>>>>> origin/Mason
       "PayloadLength": 38033,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -13223,15 +12854,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 943987,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 943358,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13576,11 +13201,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 944153,
-=======
-      "PayloadOffset": 943507,
->>>>>>> origin/Mason
       "PayloadLength": 8374,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13805,15 +13426,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 952639,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 951993,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13824,11 +13439,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 952779,
-=======
-      "PayloadOffset": 952116,
->>>>>>> origin/Mason
       "PayloadLength": 57873,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -13841,15 +13452,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1010745,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1010082,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14418,11 +14023,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1010908,
-=======
-      "PayloadOffset": 1010228,
->>>>>>> origin/Mason
       "PayloadLength": 8371,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14647,15 +14248,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1019403,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1018723,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14666,11 +14261,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1019555,
-=======
-      "PayloadOffset": 1018858,
->>>>>>> origin/Mason
       "PayloadLength": 90538,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -14683,15 +14274,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1110198,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1109501,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15458,11 +15043,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1110373,
-=======
-      "PayloadOffset": 1109659,
->>>>>>> origin/Mason
       "PayloadLength": 8383,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15687,15 +15268,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1118873,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1118159,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15706,11 +15281,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1119018,
-=======
-      "PayloadOffset": 1118287,
->>>>>>> origin/Mason
       "PayloadLength": 81661,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -15723,15 +15294,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1200777,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1200046,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16403,11 +15968,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1200945,
-=======
-      "PayloadOffset": 1200197,
->>>>>>> origin/Mason
       "PayloadLength": 8133,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -16626,15 +16187,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1209202,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1208454,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16645,11 +16200,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1209354,
-=======
-      "PayloadOffset": 1208589,
->>>>>>> origin/Mason
       "PayloadLength": 54097,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -16662,15 +16213,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1263556,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1262791,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17158,11 +16703,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1263731,
-=======
-      "PayloadOffset": 1262949,
->>>>>>> origin/Mason
       "PayloadLength": 8566,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17391,15 +16932,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1272415,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1271633,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17410,11 +16945,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1272561,
-=======
-      "PayloadOffset": 1271762,
->>>>>>> origin/Mason
       "PayloadLength": 35665,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -17427,15 +16958,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1308325,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1307526,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17738,11 +17263,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1308494,
-=======
-      "PayloadOffset": 1307678,
->>>>>>> origin/Mason
       "PayloadLength": 8221,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17963,15 +17484,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1316851,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1316035,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17982,11 +17497,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1317015,
-=======
-      "PayloadOffset": 1316182,
->>>>>>> origin/Mason
       "PayloadLength": 35145,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -17999,15 +17510,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1352277,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1351444,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18340,11 +17845,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1352464,
-=======
-      "PayloadOffset": 1351614,
->>>>>>> origin/Mason
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18577,15 +18078,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1361339,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1360489,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18596,11 +18091,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1361492,
-=======
-      "PayloadOffset": 1360625,
->>>>>>> origin/Mason
       "PayloadLength": 41972,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -18613,15 +18104,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1403570,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1402703,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -18976,11 +18461,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1403746,
-=======
-      "PayloadOffset": 1402862,
->>>>>>> origin/Mason
       "PayloadLength": 8750,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -19213,15 +18694,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1412622,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1411738,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19232,11 +18707,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1412776,
-=======
-      "PayloadOffset": 1411875,
->>>>>>> origin/Mason
       "PayloadLength": 34118,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
@@ -19249,15 +18720,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1447001,
       "PayloadLength": 61,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\daaxe\\OneDr",
-=======
-      "PayloadOffset": 1446100,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"E:\\GameDevStuff\\GGJG",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19565,11 +19030,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1447178,
-=======
-      "PayloadOffset": 1446260,
->>>>>>> origin/Mason
       "PayloadLength": 8846,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -19804,15 +19265,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1456130,
       "PayloadLength": 48,
       "PayloadDebugContentSnippet": "C:\\Users\\daaxe\\OneDrive\\Docume",
-=======
-      "PayloadOffset": 1455212,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "E:\\GameDevStuff\\GGJGame\\GGJGam",
->>>>>>> origin/Mason
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19823,13 +19278,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
       "PayloadOffset": 1456264,
-      "PayloadLength": 33429,
-=======
-      "PayloadOffset": 1455329,
-      "PayloadLength": 33536,
->>>>>>> origin/Mason
+      "PayloadLength": 33565,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -19841,11 +19291,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
-      "PayloadOffset": 1489780,
-=======
-      "PayloadOffset": 1488952,
->>>>>>> origin/Mason
+      "PayloadOffset": 1489916,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -20089,7 +19535,6 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
-        "Assets/Game Jam Audio/AudioManager.cs",
         "Assets/Mason is cringe/FuckOFF.cs",
         "Assets/Mason is cringe/MainMenu.cs",
         "Assets/Mason is cringe/OptionsButton.cs",
@@ -20098,10 +19543,7 @@
         "Assets/Mason is cringe/toControls.cs",
         "Assets/Mason is cringe/To_frick_u.cs",
         "Assets/Mason is cringe/to_option.cs",
-<<<<<<< HEAD
-        "Assets/ScotlandToggle.cs",
-=======
->>>>>>> origin/Mason
+        "Assets/Scripts/AudioManager.cs",
         "Assets/Scripts/CannonShoot.cs",
         "Assets/Scripts/CharacterMoveController.cs",
         "Assets/Scripts/DropGems.cs",
@@ -20110,12 +19552,10 @@
         "Assets/Scripts/MouseClickHandler.cs",
         "Assets/Scripts/Player2Controller.cs",
         "Assets/Scripts/PlayerRespawn.cs",
+        "Assets/Scripts/ScotlandToggle.cs",
         "Assets/Scripts/SCOTLAND_FOREVER.cs",
         "Assets/Scripts/SpawnGems.cs",
-<<<<<<< HEAD
-=======
         "Assets/Scripts/TakeGems.cs",
->>>>>>> origin/Mason
         "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
@@ -20354,11 +19794,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< HEAD
-      "PayloadOffset": 1489876,
-=======
-      "PayloadOffset": 1489048,
->>>>>>> origin/Mason
+      "PayloadOffset": 1490012,
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21442,11 +20878,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Users\\daaxe\\OneDrive\\Documents\\GitHub\\GGJGame\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
-=======
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.13f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\ScriptAssemblies\" -s=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"E:\\GameDevStuff\\GGJGame\\GGJGame\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
->>>>>>> origin/Mason
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.13f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21732,10 +21164,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-<<<<<<< HEAD
   "PayloadsFile": "C:/Users/daaxe/OneDrive/Documents/GitHub/GGJGame/Library/Bee/1900b0aE.dag.payloads",
-=======
-  "PayloadsFile": "E:/GameDevStuff/GGJGame/GGJGame/Library/Bee/1900b0aE.dag.payloads",
->>>>>>> origin/Mason
   "RelativePathToRoot": "../.."
 }

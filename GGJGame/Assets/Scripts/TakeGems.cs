@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
@@ -11,7 +12,8 @@ public class TakeGems : MonoBehaviour
     private bool gemTaken;
     [SerializeField] private GameObject self;
     private GameObject dropTarget;
-
+    public AudioClip dropSound;
+    public AudioClip pickupSound;
 
     public bool GetGemTaken() { return gemTaken; }
     private void OnTriggerEnter(Collider other)
@@ -46,10 +48,12 @@ public class TakeGems : MonoBehaviour
         gemTaken = true;
         objectIWantToPickUp.transform.position = transform.position + new Vector3(0, 1, 0); // sets the position of the object to your hand position
         objectIWantToPickUp.transform.parent = transform;
+        AudioSource.PlayClipAtPoint(pickupSound, transform.position);//Hopefully plays sound on pickup
         Debug.Log("PickedUpGem");
     }
     private void DropGems()
     {   //Destroys Gem & Clears var value
+        AudioSource.PlayClipAtPoint(dropSound, transform.position);
         Destroy(objectIWantToPickUp); 
         objectIWantToPickUp = null;
     }

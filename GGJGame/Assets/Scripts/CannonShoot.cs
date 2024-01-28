@@ -10,12 +10,20 @@ public class CannonShoot : MonoBehaviour
     private float cannonBallSpeed;
     [SerializeField]
     private Transform pof;
+    [Header("-------- Audio Source --------")]
+    [SerializeField] AudioSource musicSource;
+    [Header("-------- Audio Clip --------")]
+    public AudioClip Blast;
 
     IEnumerator Shoot()
     {
         GameObject ball = Instantiate(cannonBall, pof.position, Quaternion.identity);
 
         Rigidbody rb = ball.AddComponent<Rigidbody>();
+
+        musicSource.clip = Blast;
+        musicSource.Play();
+        DontDestroyOnLoad(musicSource.clip);
 
         rb.velocity = cannonBallSpeed * pof.forward;
         rb.useGravity = false;

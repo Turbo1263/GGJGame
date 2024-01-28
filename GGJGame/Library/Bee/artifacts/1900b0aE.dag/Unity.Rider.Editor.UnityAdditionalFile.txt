@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 C:\Users\daaxe\OneDrive\Documents\GitHub\GGJGame
-=======
-E:\GameDevStuff\GGJGame\GGJGame
->>>>>>> origin/Mason
