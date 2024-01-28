@@ -19278,8 +19278,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1455329,
       "PayloadLength": 33536,
+=======
+      "PayloadOffset": 1313024,
+      "PayloadLength": 28399,
+>>>>>>> 51e07ac27d355d57fde6f097b8f96c2ca3a54bca
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -19291,7 +19296,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1488952,
+=======
+      "PayloadOffset": 1341510,
+>>>>>>> 51e07ac27d355d57fde6f097b8f96c2ca3a54bca
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19536,11 +19545,15 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/Game Jam Audio/AudioManager.cs",
+        "Assets/Game Jam Audio/SCOTLAND_FOREVER.cs",
         "Assets/Mason is cringe/FuckOFF.cs",
+        "Assets/Mason is cringe/GUIforScore.cs",
         "Assets/Mason is cringe/MainMenu.cs",
         "Assets/Mason is cringe/OptionsButton.cs",
         "Assets/Mason is cringe/returnbozo.cs",
         "Assets/Mason is cringe/return_home.cs",
+        "Assets/Mason is cringe/scoreboard_red.cs",
+        "Assets/Mason is cringe/ScoreIncrease.cs",
         "Assets/Mason is cringe/toControls.cs",
         "Assets/Mason is cringe/To_frick_u.cs",
         "Assets/Mason is cringe/to_option.cs",
@@ -19793,7 +19806,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1489048,
+=======
+      "PayloadOffset": 1341606,
+>>>>>>> 51e07ac27d355d57fde6f097b8f96c2ca3a54bca
       "PayloadLength": 9366,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
